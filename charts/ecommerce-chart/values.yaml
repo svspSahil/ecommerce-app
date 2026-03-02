@@ -1,6 +1,6 @@
 namespace: sahil-ns 
 
-replicas: 2
+replicas: 4
 
 appDeployment:
  labels:
