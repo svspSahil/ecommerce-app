@@ -1,6 +1,6 @@
-namespace: sahil-ns 
+namespace: ecommerce-ns 
 
-replicas: 4
+replicas: 6
 
 appDeployment:
  labels:
